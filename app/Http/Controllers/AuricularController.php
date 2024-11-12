@@ -2,8 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Auricular;
+
 use Illuminate\Http\Request;
+use App\Models\Auricular;
+
 
 class AuricularController extends Controller
 {
